@@ -6,8 +6,9 @@ Welcome to my personal knowledge repository and micro-experiment hub. This repos
 
 ## 🎯 Purpose
 
-- **Document Core Concepts:** Keep concise notes on methodologies, design patterns, and tools.
-- **Log Micro-Experiments:** Store standalone code samples, CLI automation scripts, and framework prototypes.
+- **Document Core Concepts:** Short notes from courses, tutorials, docs, and books.
+- **Log Micro-Experiments:** Small code samples, CLI scripts, and quick prototypes.
+- **Hands-On Practice:** Turning theory into runnable code and practical notes.
 - **Track Daily Progress:** Maintain a continuous learning loop with production-ready standards.
 
 ---
